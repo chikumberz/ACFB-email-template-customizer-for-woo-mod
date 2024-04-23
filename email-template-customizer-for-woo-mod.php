@@ -3,7 +3,7 @@
 
     /**
      * Plugin Name: Email Template Customizer for WooCommerce - Mod
-     * Plugin URI:
+     * Plugin URI: https://github.com/chikumberz/ACFB-email-template-customizer-for-woo-mod
      * Description: This mod will fix the order_download render bug
      * Version: 0.1.1
      * Author: Benjamin Taluyo
